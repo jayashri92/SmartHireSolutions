@@ -1,0 +1,17 @@
+.inter .title{
+    padding: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.inter .title h1{
+    font-size: 55px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.inter .traning-card i{
+    font-size: 40px;
+    color: brown;
+}

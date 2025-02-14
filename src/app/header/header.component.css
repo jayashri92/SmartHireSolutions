@@ -1,0 +1,13 @@
+.logo{
+    font-size: 27px;
+    text-decoration: none;
+}
+.logo span{
+    color: #68A224;
+}
+
+header .nav-item a{
+    font-size: 1.2rem;
+    color:black;
+
+}

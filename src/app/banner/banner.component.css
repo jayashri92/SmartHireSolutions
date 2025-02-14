@@ -1,0 +1,8 @@
+.banner-section{
+    /* background-image: url(''); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: gainsboro;
+    padding: 25px;
+}
